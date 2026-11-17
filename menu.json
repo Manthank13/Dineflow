@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Paneer Tikka",
+    "price": 220.0,
+    "category": "Starters",
+    "emoji": "🥘",
+    "image": "assets/Paneer_Tikka.jpg"
+  },
+  {
+    "name": "Veg Manchurian",
+    "price": 180,
+    "category": "Starters",
+    "emoji": "🥗",
+    "image": ""
+  },
+  {
+    "name": "Crispy Corn",
+    "price": 160,
+    "category": "Starters",
+    "emoji": "🌽",
+    "image": ""
+  },
+  {
+    "name": "Hara Bhara Kebab",
+    "price": 190,
+    "category": "Starters",
+    "emoji": "🍢",
+    "image": ""
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "price": 260,
+    "category": "Main Course",
+    "emoji": "🍛",
+    "image": ""
+  },
+  {
+    "name": "Dal Makhani",
+    "price": 230,
+    "category": "Main Course",
+    "emoji": "🥣",
+    "image": ""
+  },
+  {
+    "name": "Kadai Paneer",
+    "price": 250,
+    "category": "Main Course",
+    "emoji": "🍲",
+    "image": ""
+  },
+  {
+    "name": "Mix Veg",
+    "price": 210,
+    "category": "Main Course",
+    "emoji": "🥘",
+    "image": ""
+  },
+  {
+    "name": "Butter Naan",
+    "price": 45,
+    "category": "Breads",
+    "emoji": "🫓",
+    "image": ""
+  },
+  {
+    "name": "Garlic Naan",
+    "price": 60,
+    "category": "Breads",
+    "emoji": "🫓",
+    "image": ""
+  },
+  {
+    "name": "Tandoori Roti",
+    "price": 25,
+    "category": "Breads",
+    "emoji": "🫓",
+    "image": ""
+  },
+  {
+    "name": "Jeera Rice",
+    "price": 160,
+    "category": "Rice",
+    "emoji": "🍚",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani",
+    "price": 220,
+    "category": "Rice",
+    "emoji": "🍚",
+    "image": ""
+  },
+  {
+    "name": "Steamed Rice",
+    "price": 120,
+    "category": "Rice",
+    "emoji": "🍚",
+    "image": ""
+  },
+  {
+    "name": "Fresh Lime Soda",
+    "price": 90,
+    "category": "Beverages",
+    "emoji": "🍋",
+    "image": ""
+  },
+  {
+    "name": "Cold Coffee",
+    "price": 130,
+    "category": "Beverages",
+    "emoji": "☕",
+    "image": ""
+  },
+  {
+    "name": "Masala Chaas",
+    "price": 60,
+    "category": "Beverages",
+    "emoji": "🥛",
+    "image": ""
+  },
+  {
+    "name": "Brownie",
+    "price": 120,
+    "category": "Desserts",
+    "emoji": "🍫",
+    "image": ""
+  },
+  {
+    "name": "Gulab Jamun",
+    "price": 80,
+    "category": "Desserts",
+    "emoji": "🍮",
+    "image": ""
+  },
+  {
+    "name": "Ice Cream",
+    "price": 100,
+    "category": "Desserts",
+    "emoji": "🍨",
+    "image": ""
+  }
+]
